@@ -2,7 +2,7 @@ title: Ser-Drephs # name of the site
 author: Sergei Drevs (Ser-Drephs) # name of site's author
 url: https://ser-drephs.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  My personal blog and other stuff.
+  My personal landing page.
 
 permalink: /:title.html
 

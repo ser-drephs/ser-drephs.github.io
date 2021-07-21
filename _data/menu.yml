@@ -7,12 +7,17 @@ entries:
     entries:
       - title: about me
         url: about
+      - title: medium
+        url: https://medium.com/@serdrephs
       - title: github
         url: https://github.com/Ser-Drephs
-      - title: rss
-        url: feed.xml
+      - title: twitter
+        url: https://twitter.com/serdrephs
 
-  - title: blog
-    post_list: true
+  - title: projects
     url: false
-    entries: false
+    entries:
+      - title: tracker
+        url: https://github.com/ser-drephs/tracker
+      - title: changelog
+        url: https://github.com/ser-drephs/changelog

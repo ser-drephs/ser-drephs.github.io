@@ -1,6 +1,6 @@
 # Ser-Drephs Blog
 
-This is the source code of my personal blog and other public information about me.
+This is the source code of my github.io landing page.
 
 ## Features of "no-style-please"
 
