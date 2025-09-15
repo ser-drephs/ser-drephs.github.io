@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Grüße
+I'm Sergei Drevs. I'm a full-stack developer from Ostwestfalen-Lippe in North Rhine-Westphalia, Germany.
